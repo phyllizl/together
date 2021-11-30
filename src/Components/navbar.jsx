@@ -13,7 +13,7 @@ const Navbar = () => {
             </div>
             <div className="justify-end w-6/12 hidden md:flex">
                 <div className="flex items-center m-4">login</div>
-                <button>demo</button>
+                <button className="mr-4 w-40 m-1 bg-darkPurple text-center">demo</button>
             </div>
 
             <div className="flex justify-end md:hidden text-base p-2">
